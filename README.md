@@ -5,23 +5,8 @@ vue2.x版本封装的响应式echarts组件
 
 ### 全局导入
 ```javascript
-import VueCharts from 'VueCharts'
+import VueCharts from 'vue2-vue-charts'
 Vue.use(VueCharts)
-```
-
-### 页面内导入
-```javascript
-import VueCharts from 'VueCharts'
-<script>
-export default{
-  components:{
-    VueCharts
-  },
-  data() {
-    return {}
-  }
-}
-<script/>
 ```
 
 ### 参数
