@@ -1,5 +1,5 @@
 # vue-charts
-vue2.x版本封装的响应式echarts组件
+vue2.x版本封装的自适应echarts组件
 
 # 使用
 

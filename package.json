@@ -1,6 +1,6 @@
 {
   "name": "vue2-vue-charts",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "vue2.x版本封装的响应式echarts组件",
   "main": "lib/vue-chart.umd.min.js",
